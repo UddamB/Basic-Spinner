@@ -1,3 +1,8 @@
+/**
+ * @author      Uddam Bhathal <Uddamsingh14@gmail.com>
+ * @version     1
+ * @since       1
+ */
 import javax.swing.SpinnerListModel;
 import javax.swing.JSpinner;
 import javax.swing.SpinnerNumberModel;
